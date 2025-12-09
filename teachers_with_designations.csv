@@ -1,0 +1,101 @@
+teacher_id,teacher_name,department,subjects_assigned,total_weekly_hours,max_hours_per_day,availability,email,Designation
+1,Rohan Verma,CHEMICAL,"ThermoChemistry, Plant Design",22,4,"Wed, Thu, Tue, Mon, Fri",teacher1@college.edu,Prof
+2,Amit Sharma,MECHANICAL,"Thermodynamics, Fluid Mechanics",24,4,"Wed, Tue, Fri, Mon, Thu",teacher2@college.edu,Associate Prof.
+3,Shruti Kulkarni,MECHANICAL,"Thermodynamics, Fluid Mechanics",21,4,"Sat, Fri, Thu, Mon, Wed, Tue",teacher3@college.edu,Prof
+4,Vikram Sinha,AIML,"Neural Networks, DL",20,3,"Tue, Mon, Sat, Thu",teacher4@college.edu,HOD
+5,Anita Desai,IT,"Web Tech, Cloud Computing",24,4,"Wed, Sat, Thu, Fri",teacher5@college.edu,Asst. Prof.
+6,Priya Rao,MECHANICAL,"Machine Design, Thermodynamics",21,3,"Tue, Thu, Sat, Wed",teacher6@college.edu,Associate Prof.
+7,Neha Gupta,IT,"Web Tech, Cyber Security",20,3,"Mon, Wed, Sat, Thu, Tue",teacher7@college.edu,Prof
+8,Karan Malhotra,IT,"DBMS, Cloud Computing",24,3,"Tue, Mon, Wed, Fri, Thu, Sat",teacher8@college.edu,Prof
+9,Nitin Agarwal,IT,"Web Tech, DBMS",23,4,"Sat, Fri, Wed, Mon, Tue, Thu",teacher9@college.edu,Associate Prof.
+10,Neha Gupta,CS,"Python, OS",20,3,"Mon, Wed, Sat, Fri, Tue",teacher10@college.edu,Asst. Prof.
+11,Karan Malhotra,AIML,"DL, ML",24,4,"Fri, Tue, Wed, Thu, Sat",teacher11@college.edu,Associate Prof.
+12,Pooja Nair,AIDS,"Statistics, Data Mining",20,4,"Sat, Wed, Fri, Mon",teacher12@college.edu,Prof
+13,Siddharth Khanna,ENTC,"DSP, Embedded Systems",21,4,"Tue, Sat, Thu, Fri, Wed, Mon",teacher13@college.edu,Associate Prof.
+14,Sneha Kapoor,AIML,"DL, Neural Networks",21,5,"Mon, Thu, Tue, Sat",teacher14@college.edu,HOD
+15,Rahul Mehta,CS,"DSA, Python",24,5,"Wed, Thu, Fri, Mon",teacher15@college.edu,Associate Prof.
+16,Shruti Kulkarni,ENTC,"DSP, Signals",24,3,"Sat, Tue, Thu, Fri",teacher16@college.edu,Prof
+17,Vikram Sinha,INSTRUMENTATION,"Control Systems, Instrumentation Devices",22,3,"Thu, Mon, Wed, Sat, Tue",teacher17@college.edu,Associate Prof.
+18,Karan Malhotra,ENTC,"VLSI, Signals",22,4,"Sat, Tue, Wed, Mon, Thu, Fri",teacher18@college.edu,HOD
+19,Karan Malhotra,AIDS,"Python, AI",24,3,"Fri, Wed, Thu, Tue, Sat, Mon",teacher19@college.edu,Asst. Prof.
+20,Arjun Patel,IT,"Cyber Security, Cloud Computing",23,4,"Thu, Tue, Mon, Sat",teacher20@college.edu,HOD
+21,Vikram Sinha,INSTRUMENTATION,"Sensors, Control Systems",23,5,"Wed, Fri, Tue, Sat, Mon, Thu",teacher21@college.edu,Asst. Prof.
+22,Vikram Sinha,ENTC,"VLSI, DSP",23,5,"Tue, Fri, Mon, Thu, Wed, Sat",teacher22@college.edu,Associate Prof.
+23,Divya Reddy,AIML,"DL, Neural Networks",20,5,"Wed, Mon, Thu, Sat",teacher23@college.edu,Asst. Prof.
+24,Manish Chawla,IT,"DBMS, Cyber Security",20,4,"Mon, Sat, Tue, Wed, Fri",teacher24@college.edu,Asst. Prof.
+25,Nitin Agarwal,CS-AI,"AI Ethics, Machine Learning",24,3,"Wed, Fri, Sat, Thu, Tue",teacher25@college.edu,Asst. Prof.
+26,Manish Chawla,CS-AI,"Python, Machine Learning",24,3,"Sat, Thu, Mon, Tue, Fri, Wed",teacher26@college.edu,HOD
+27,Anita Desai,CS-AI,"AI Ethics, Machine Learning",23,3,"Sat, Fri, Tue, Mon, Wed",teacher27@college.edu,Asst. Prof.
+28,Rohan Verma,CHEMICAL,"Process Engineering, ThermoChemistry",22,4,"Tue, Fri, Wed, Thu, Sat, Mon",teacher28@college.edu,Associate Prof.
+29,Manish Chawla,IT,"Web Tech, Cyber Security",24,3,"Thu, Mon, Sat, Fri, Tue",teacher29@college.edu,HOD
+30,Siddharth Khanna,AIDS,"AI, Statistics",21,3,"Tue, Thu, Fri, Sat",teacher30@college.edu,Asst. Prof.
+31,Nitin Agarwal,CHEMICAL,"ThermoChemistry, Process Engineering",22,3,"Wed, Fri, Thu, Tue, Sat",teacher31@college.edu,Prof
+32,Meera Iyer,CS,"DSA, OS",20,3,"Thu, Mon, Fri, Sat, Tue, Wed",teacher32@college.edu,Asst. Prof.
+33,Sneha Kapoor,AIDS,"Statistics, Data Mining",24,5,"Thu, Mon, Wed, Tue",teacher33@college.edu,Associate Prof.
+34,Neha Gupta,CHEMICAL,"Plant Design, Process Engineering",22,5,"Mon, Wed, Thu, Fri",teacher34@college.edu,Prof
+35,Tanvi Joshi,AIDS,"Data Mining, Python",21,4,"Fri, Thu, Tue, Mon, Sat, Wed",teacher35@college.edu,HOD
+36,Anita Desai,CS,"DSA, OS",20,4,"Fri, Wed, Mon, Sat, Thu, Tue",teacher36@college.edu,Prof
+37,Sneha Kapoor,CHEMICAL,"ThermoChemistry, Plant Design",23,5,"Mon, Wed, Thu, Sat, Fri, Tue",teacher37@college.edu,HOD
+38,Shruti Kulkarni,AIML,"DL, ML",21,5,"Mon, Tue, Fri, Sat",teacher38@college.edu,Prof
+39,Sneha Kapoor,CS,"DSA, OS",21,5,"Tue, Fri, Mon, Sat",teacher39@college.edu,Associate Prof.
+40,Rohan Verma,CS,"Java, CN",20,5,"Tue, Sat, Mon, Fri, Thu",teacher40@college.edu,Asst. Prof.
+41,Sneha Kapoor,CS-AI,"Python, Deep Learning",20,5,"Sat, Fri, Wed, Thu",teacher41@college.edu,Associate Prof.
+42,Anita Desai,AIDS,"Data Mining, AI",23,4,"Mon, Wed, Sat, Fri, Thu, Tue",teacher42@college.edu,HOD
+43,Anita Desai,AIDS,"AI, Data Mining",20,5,"Tue, Sat, Thu, Fri",teacher43@college.edu,HOD
+44,Amit Sharma,MECHANICAL,"Machine Design, Thermodynamics",23,4,"Tue, Sat, Fri, Mon, Wed, Thu",teacher44@college.edu,Associate Prof.
+45,Priya Rao,CS-AI,"Deep Learning, Machine Learning",22,5,"Tue, Thu, Wed, Sat",teacher45@college.edu,Asst. Prof.
+46,Neha Gupta,CS-AI,"Machine Learning, AI Ethics",20,4,"Thu, Wed, Mon, Tue, Fri",teacher46@college.edu,Associate Prof.
+47,Shruti Kulkarni,MECHANICAL,"Fluid Mechanics, Machine Design",24,3,"Thu, Sat, Tue, Mon, Fri",teacher47@college.edu,Prof
+48,Harshita Bansal,ENTC,"Embedded Systems, DSP",20,4,"Sat, Tue, Thu, Fri",teacher48@college.edu,Prof
+49,Rahul Mehta,CS-AI,"AI Ethics, Python",20,5,"Wed, Thu, Tue, Mon",teacher49@college.edu,Asst. Prof.
+50,Arjun Patel,ENTC,"DSP, Signals",22,5,"Wed, Thu, Tue, Fri",teacher50@college.edu,Prof
+51,Divya Reddy,AIML,"Neural Networks, AI",20,5,"Fri, Mon, Tue, Thu, Sat",teacher51@college.edu,Asst. Prof.
+52,Karan Malhotra,ENTC,"Embedded Systems, DSP",24,5,"Mon, Fri, Sat, Wed, Thu, Tue",teacher52@college.edu,Associate Prof.
+53,Varun Saxena,INSTRUMENTATION,"Sensors, Control Systems",23,4,"Thu, Wed, Mon, Sat, Tue, Fri",teacher53@college.edu,Associate Prof.
+54,Varun Saxena,CHEMICAL,"ThermoChemistry, Plant Design",20,3,"Fri, Sat, Thu, Wed, Mon",teacher54@college.edu,Associate Prof.
+55,Vikram Sinha,AIDS,"Python, AI",20,4,"Wed, Mon, Fri, Thu, Sat",teacher55@college.edu,Asst. Prof.
+56,Manish Chawla,CS-AI,"Python, AI Ethics",24,5,"Fri, Mon, Tue, Thu, Sat",teacher56@college.edu,Prof
+57,Rohan Verma,INSTRUMENTATION,"Sensors, Instrumentation Devices",24,5,"Wed, Tue, Sat, Mon",teacher57@college.edu,Prof
+58,Anita Desai,IT,"Web Tech, Cloud Computing",23,3,"Tue, Fri, Thu, Mon, Wed",teacher58@college.edu,Asst. Prof.
+59,Anita Desai,INSTRUMENTATION,"Sensors, Control Systems",21,5,"Sat, Tue, Fri, Mon",teacher59@college.edu,Associate Prof.
+60,Arjun Patel,CS-AI,"Machine Learning, Python",24,3,"Thu, Tue, Wed, Mon",teacher60@college.edu,Asst. Prof.
+61,Nitin Agarwal,CS,"Java, Python",23,5,"Sat, Wed, Mon, Tue, Thu",teacher61@college.edu,Asst. Prof.
+62,Nitin Agarwal,CS-AI,"AI Ethics, Machine Learning",23,4,"Tue, Sat, Thu, Wed, Mon, Fri",teacher62@college.edu,Prof
+63,Shruti Kulkarni,ENTC,"VLSI, Signals",21,5,"Sat, Thu, Tue, Wed",teacher63@college.edu,Asst. Prof.
+64,Priya Rao,AIDS,"AI, Python",22,3,"Wed, Fri, Mon, Sat",teacher64@college.edu,HOD
+65,Rahul Mehta,ENTC,"Embedded Systems, VLSI",21,4,"Thu, Wed, Fri, Mon",teacher65@college.edu,HOD
+66,Nitin Agarwal,AIDS,"AI, Data Mining",21,3,"Tue, Sat, Wed, Thu, Mon",teacher66@college.edu,HOD
+67,Anita Desai,INSTRUMENTATION,"Control Systems, Sensors",24,3,"Tue, Mon, Thu, Sat, Wed",teacher67@college.edu,Asst. Prof.
+68,Pooja Nair,AIML,"ML, AI",20,3,"Sat, Wed, Tue, Thu, Mon, Fri",teacher68@college.edu,Associate Prof.
+69,Neha Gupta,CS,"CN, OS",22,3,"Mon, Fri, Wed, Tue, Thu, Sat",teacher69@college.edu,Associate Prof.
+70,Nitin Agarwal,ENTC,"DSP, Embedded Systems",24,3,"Wed, Thu, Tue, Fri, Sat, Mon",teacher70@college.edu,Associate Prof.
+71,Sneha Kapoor,ENTC,"VLSI, Embedded Systems",22,4,"Tue, Fri, Sat, Wed, Thu",teacher71@college.edu,HOD
+72,Manish Chawla,INSTRUMENTATION,"Instrumentation Devices, Control Systems",23,4,"Fri, Tue, Mon, Sat",teacher72@college.edu,Associate Prof.
+73,Meera Iyer,CS-AI,"Machine Learning, Python",20,4,"Tue, Sat, Mon, Wed",teacher73@college.edu,HOD
+74,Meera Iyer,IT,"Web Tech, Cloud Computing",23,4,"Sat, Thu, Tue, Fri, Wed, Mon",teacher74@college.edu,HOD
+75,Priya Rao,MECHANICAL,"Fluid Mechanics, Machine Design",23,4,"Wed, Tue, Sat, Mon",teacher75@college.edu,Associate Prof.
+76,Vikram Sinha,AIDS,"Data Mining, AI",20,4,"Thu, Fri, Mon, Sat, Tue",teacher76@college.edu,Associate Prof.
+77,Karan Malhotra,CHEMICAL,"Process Engineering, Plant Design",22,3,"Sat, Fri, Thu, Mon, Wed, Tue",teacher77@college.edu,Prof
+78,Varun Saxena,CS-AI,"Deep Learning, Python",20,5,"Sat, Tue, Fri, Thu, Wed, Mon",teacher78@college.edu,Associate Prof.
+79,Vikram Sinha,AIML,"Neural Networks, AI",23,5,"Thu, Tue, Sat, Fri, Wed, Mon",teacher79@college.edu,Associate Prof.
+80,Pooja Nair,CS-AI,"Python, Deep Learning",22,3,"Sat, Wed, Mon, Thu, Fri, Tue",teacher80@college.edu,Prof
+81,Neha Gupta,CS,"DSA, Java",24,4,"Mon, Wed, Fri, Sat, Thu, Tue",teacher81@college.edu,HOD
+82,Rohan Verma,ENTC,"DSP, Signals",23,5,"Thu, Sat, Tue, Fri",teacher82@college.edu,Associate Prof.
+83,Anita Desai,AIML,"ML, DL",24,4,"Wed, Thu, Fri, Tue, Mon",teacher83@college.edu,Prof
+84,Meera Iyer,CHEMICAL,"Process Engineering, ThermoChemistry",24,4,"Wed, Mon, Fri, Sat, Tue, Thu",teacher84@college.edu,Asst. Prof.
+85,Harshita Bansal,ENTC,"VLSI, DSP",24,5,"Tue, Thu, Sat, Mon, Wed",teacher85@college.edu,HOD
+86,Vikram Sinha,CS-AI,"Machine Learning, Python",23,5,"Tue, Mon, Fri, Sat",teacher86@college.edu,Prof
+87,Nitin Agarwal,ENTC,"Signals, DSP",20,4,"Sat, Mon, Wed, Tue",teacher87@college.edu,Asst. Prof.
+88,Rohan Verma,INSTRUMENTATION,"Sensors, Instrumentation Devices",21,5,"Wed, Fri, Tue, Sat, Mon",teacher88@college.edu,Associate Prof.
+89,Priya Rao,ENTC,"Embedded Systems, Signals",20,5,"Sat, Fri, Mon, Wed, Thu, Tue",teacher89@college.edu,Asst. Prof.
+90,Nitin Agarwal,IT,"Web Tech, Cyber Security",23,5,"Tue, Sat, Wed, Mon, Thu, Fri",teacher90@college.edu,Associate Prof.
+91,Pooja Nair,ENTC,"VLSI, Embedded Systems",21,4,"Tue, Sat, Fri, Thu, Mon",teacher91@college.edu,Asst. Prof.
+92,Tanvi Joshi,CHEMICAL,"Process Engineering, Plant Design",23,3,"Sat, Thu, Fri, Wed, Mon, Tue",teacher92@college.edu,Prof
+93,Amit Sharma,ENTC,"Signals, Embedded Systems",22,3,"Thu, Wed, Mon, Fri, Sat, Tue",teacher93@college.edu,Asst. Prof.
+94,Divya Reddy,CHEMICAL,"Plant Design, Process Engineering",24,3,"Mon, Tue, Wed, Thu, Fri",teacher94@college.edu,HOD
+95,Divya Reddy,CS-AI,"Python, Machine Learning",23,4,"Sat, Mon, Fri, Tue, Thu, Wed",teacher95@college.edu,Asst. Prof.
+96,Meera Iyer,CHEMICAL,"Plant Design, ThermoChemistry",20,5,"Mon, Tue, Sat, Fri",teacher96@college.edu,Asst. Prof.
+97,Anita Desai,CS-AI,"Deep Learning, Machine Learning",21,3,"Thu, Tue, Sat, Wed, Fri",teacher97@college.edu,HOD
+98,Siddharth Khanna,CS-AI,"Machine Learning, AI Ethics",20,4,"Tue, Thu, Mon, Sat, Wed, Fri",teacher98@college.edu,Associate Prof.
+99,Arjun Patel,CHEMICAL,"Plant Design, ThermoChemistry",21,5,"Tue, Thu, Fri, Mon, Sat",teacher99@college.edu,Prof
+100,Siddharth Khanna,CS-AI,"Deep Learning, Machine Learning",20,3,"Sat, Thu, Fri, Mon, Wed",teacher100@college.edu,HOD

@@ -1,0 +1,36 @@
+subject_id,subject_name,department,hours_per_week
+1,DSA,CS,4
+2,OS,CS,3
+3,DBMS,CS,5
+4,CN,CS,3
+5,Python,CS,4
+6,Web Tech,IT,4
+7,Cloud Computing,IT,5
+8,Networks,IT,4
+9,Cyber Security,IT,5
+10,VLSI,ENTC,3
+11,DSP,ENTC,4
+12,Signals,ENTC,3
+13,Embedded,ENTC,4
+14,Thermodynamics,MECHANICAL,3
+15,Fluid Mechanics,MECHANICAL,5
+16,Design,MECHANICAL,3
+17,Manufacturing,MECHANICAL,5
+18,Data Mining,AIDS,4
+19,AI,AIDS,5
+20,Statistics,AIDS,3
+21,Python,AIDS,4
+22,ML,AIML,4
+23,DL,AIML,5
+24,Neural Networks,AIML,4
+25,AI Ethics,AIML,5
+26,Machine Learning,CS-AI,5
+27,Deep Learning,CS-AI,3
+28,Python,CS-AI,4
+29,AI Governance,CS-AI,4
+30,Sensors,INSTRUMENTATION,4
+31,Control Systems,INSTRUMENTATION,3
+32,Instrumentation,INSTRUMENTATION,5
+33,Process Control,CHEMICAL,3
+34,Chemical Kinetics,CHEMICAL,4
+35,Plant Design,CHEMICAL,5
